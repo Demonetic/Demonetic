@@ -1,8 +1,8 @@
 <div align="center">
 
-👾 **Player:** Anna  
+👾 **Player:** Anna Andersson  
 🐈‍⬛ **Class:** Java Backend Developer Student  
-🌍 **Server:** Sweden  
+🌍 **Server:** Sweden, Uppsala  
 
 ![Java](https://img.shields.io/badge/Java-Backend-e6c84f?style=flat&labelColor=3a245e&logo=openjdk&logoColor=ffffff)
 ![SQL](https://img.shields.io/badge/SQL-Database-e6c84f?style=flat&labelColor=3a245e&logo=postgresql&logoColor=ffffff)
@@ -42,16 +42,29 @@ Currently studying **Agile Java Development** and actively leveling up my backen
 
 ## 🌿🐝 Skill Tree
 
-**Abilities Learned Along the Journey**
+**Core Skills**
 - Object-Oriented Programming in Java  
-- Backend logic & application structure  
+- Backend development & REST APIs
 - Relational databases & SQL  
-- Java persistence (JDBC / ORM concepts)  
-- Advanced Java (Streams, Lambdas, Collections)  
+- Spring Boot & Spring Data  
+- Java persistence (JDBC / Hibernate / JPA)  
+- Git & version control  
 - Maven & JVM fundamentals  
 
-**Currently Studying Ancient Texts**
-- 🟡 Design Patterns & System Architecture
+**Architecture & Design**
+- Design Patterns  
+- System Architecture fundamentals  
+- Clean code & application structure  
+- Microservices & event-driven concepts  
+
+**Dev Workflow**
+- Agile / Scrum workflows  
+- CI/CD fundamentals  
+- Unit testing & test automation  
+- Debugging & troubleshooting  
+
+**Currently exploring**
+- Java webservices
 
 ---
 
@@ -67,7 +80,7 @@ New quests will unlock soon!
 
 **Languages:** Java, SQL  
 **Databases:** SQLite, MySQL  
-**Tools:** Git, GitHub, Maven, Docker (basics), IntelliJ IDEA  
+**Tools:** Git, GitHub, Maven, Docker, IntelliJ IDEA  
 **Methodology:** Agile / Scrum  
 
 ---
@@ -76,7 +89,6 @@ New quests will unlock soon!
 
 - Even the smallest commit can change the course of the system
 - A bug is never late, it arrives precisely when it means to
-- I am one with the system, and the system is with me
 - I find your lack of documentation disturbing
 
 ---
